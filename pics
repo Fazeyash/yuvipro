@@ -7,7 +7,7 @@
             var imagesContainer = document.getElementById("images-container");
 
             var imagePaths = [
-                "C:/Users/yashr/Desktop/image1.jpg.png",
+                "https://favorabledesign.com/wp-content/uploads/2020/02/kindness-quotes-luxury-kindness-quotes-of-kindness-quotes.jpg",
                 "C:/Users/yashr/Desktop/image2.jpg.png",
                 "C:/Users/yashr/Desktop/image3.jpg.png",
                 "C:/Users/yashr/Desktop/image4.jpg.png",
