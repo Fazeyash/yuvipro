@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Image Insertion Example</title>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            var imagesContainer = document.getElementById("images-container");
+
+            var imagePaths = [
+                "C:/Users/yashr/Desktop/image1.jpg.png",
+                "C:/Users/yashr/Desktop/image2.jpg.png",
+                "C:/Users/yashr/Desktop/image3.jpg.png",
+                "C:/Users/yashr/Desktop/image4.jpg.png",
+                "C:/Users/yashr/Desktop/image5.jpg.png",
+                "C:/Users/yashr/Desktop/image6.jpg.png",
+                "C:/Users/yashr/Desktop/image7.jpg.png",
+                "C:/Users/yashr/Desktop/image8.jpg.png"
+            ];
+
+            for (var i = 0; i < imagePaths.length; i++) {
+                var img = document.createElement("img");
+                img.src = imagePaths[i];
+                img.alt = "Picture " + (i + 1);
+                
+                var description = document.createElement("p");
+                description.textContent = "Picture " + (i + 1) + " description.";
+                
+                imagesContainer.appendChild(img);
+                imagesContainer.appendChild(description);
+            }
+        });
+    </script>
+</head>
+<body>
+    <h1>My Pictures</h1>
+    <div id="images-container"></div>
+</body>
+</html>
