@@ -8,13 +8,13 @@
 
             var imagePaths = [
                 "https://favorabledesign.com/wp-content/uploads/2020/02/kindness-quotes-luxury-kindness-quotes-of-kindness-quotes.jpg",
-                "C:/Users/yashr/Desktop/image2.jpg.png",
-                "C:/Users/yashr/Desktop/image3.jpg.png",
-                "C:/Users/yashr/Desktop/image4.jpg.png",
-                "C:/Users/yashr/Desktop/image5.jpg.png",
-                "C:/Users/yashr/Desktop/image6.jpg.png",
-                "C:/Users/yashr/Desktop/image7.jpg.png",
-                "C:/Users/yashr/Desktop/image8.jpg.png"
+                "http://img3.wikia.nocookie.net/__cb20140304093436/degrassi/images/b/b0/Water_bottle_animated.jpg",
+                "https://tse4.mm.bing.net/th?id=OIP.i0L0ohf-zf4K_R1b34C2XgHaHa&pid=Api&P=0&h=180",
+                "https://www.first1000days.ie/wp-content/uploads/2013/06/food_pyramid.jpg",
+                "https://in.images.search.yahoo.com/images/view;_ylt=AwrKBzlBJepkKjI0SEq9HAx.;_ylu=c2VjA3NyBHNsawNpbWcEb2lkA2M4ZjcyMGUzZjFlMTdkZGEzZjdjYTNiMjgyOGVlMTEwBGdwb3MDNARpdANiaW5n?back=https%3A%2F%2Fin.images.search.yahoo.com%2Fsearch%2Fimages%3Fp%3Dstress%2Bmanagement%26type%3DE211IN826G0%26fr%3Dmcafee%26fr2%3Dpiv-web%26tab%3Dorganic%26ri%3D4&w=1000&h=700&imgurl=lachina.com%2Fwp-content%2Fuploads%2F2017%2F08%2Fstress-managment-in-your-life.jpg&rurl=https%3A%2F%2Fbiologyjunction.com%2Ftag%2Fslowing-the-aging%2F&size=56.9KB&p=stress+management&oid=c8f720e3f1e17dda3f7ca3b2828ee110&fr2=piv-web&fr=mcafee&tt=Slowing+the+Aging+Archives+-+BIOLOGY+JUNCTION&b=0&ni=21&no=4&ts=&tab=organic&sigr=FOG6nnABHXEQ&sigb=v6t0y30Y3BvK&sigi=WQxvpFnB4ktv&sigt=tyUTDkFuCRIS&.crumb=2FgvvG.8fyK&fr=mcafee&fr2=piv-web&type=E211IN826G0",
+                "https://media1.thehungryjpeg.com/thumbs2/ori_3750167_74jrocnlejgav8lsq3hsdz307wz2l20foggxsxtd_fitness-man-vector-different-poses-weight-training-exercising-male-man-figures-is-training-on-sport-club-isolated-on-white-cartoon-character-illustration.jpg",
+                "http://blogs.law.nyu.edu/lifeatnyulaw/wp-content/uploads/2011/07/Alarm_Clocks_20101107a.jpg",
+                "https://static.vecteezy.com/system/resources/previews/000/431/306/original/boy-sleeping-in-his-bedroom-vector.jpg"
             ];
 
             for (var i = 0; i < imagePaths.length; i++) {
